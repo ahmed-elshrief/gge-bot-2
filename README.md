@@ -1,4 +1,4 @@
-
+ش
 A self-hosted automation bot for Goodgame Empire. Runs on Node.js, has a web dashboard you control from your browser, and sends real-time attack alerts to Discord — including generated images of the incoming troop formations.
 
 ---
